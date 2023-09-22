@@ -1,0 +1,8 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+#scratchCanvas {
+    background-image: url('Desktop/Roro Bday/Paris - La Villlet.png'); /* Remplacez 'path_to_your_image.jpg' par le chemin de votre image */
+    cursor: pointer;
+}
